@@ -1,0 +1,1 @@
+# paMcuLibCore_stm32
