@@ -1,4 +1,4 @@
-#include "paCoreHead/paSPI.h"
+#include "paCoreInc/drv/paSPI.h"
 #include "main.h"
 paErr paSPI::init(char spiId)
 {

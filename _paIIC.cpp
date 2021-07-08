@@ -1,4 +1,4 @@
-#include "paCoreHead/paIIC.h"
+#include "paCoreInc/drv/paIIC.h"
 // #include "driver/i2c.h"
 #include "string.h"
 #include "main.h"
